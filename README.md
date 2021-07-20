@@ -26,7 +26,7 @@ The details of each solution are described in the projects below.
 **Links:**
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/flpjorge/)
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flpj08@gmail.com)](mailto:flpj08@gmail.com)
-* [<img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:flpj07@hotmail.com" />](mailto:flpj07@hotmail.com)
+* [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:flpj07@hotmail.com)](mailto:flpj07@hotmail.com)
 
 
 ## Data Science Projects:
