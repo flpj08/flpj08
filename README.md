@@ -31,7 +31,7 @@ The details of each solution are described in the projects below.
 
 ## Data Science Projects:
 
-## Data Anaysis - Insight Projets
+## Data Anaysis - Insight Projects
 ### [House Rocket - Insights Project](https://github.com/flpj08/python-zero-ds)
 House Rocket is a company that has as business model the purchasing and selling properties through a digital platform. The CEO from the company wants to increase the profit asking for the bests properties to negociate. In addition, he wants to access this and other information from the dataset from anywhere.
 
@@ -43,4 +43,4 @@ Based on business criteria, a list of the 10 most profitable were listed giving 
 |       Initial investment        |         17,275,750.00           |
 |      Expected profit       |              5,182,725.00                 | 
 
-## Data Engineering - ETL Projets
+## Data Engineering - ETL Projects
