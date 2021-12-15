@@ -28,8 +28,24 @@ The details of each solution are described in the projects below.
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flpj08@gmail.com)](mailto:flpj08@gmail.com)
 * [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:flpj07@hotmail.com)](mailto:flpj07@hotmail.com)
 
+------------------------------------
 
 ## Data Science Projects:
+### [Rossmann - Time Series Forecasting](https://github.com/flpj08/rossmann-predict)
+Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. 
+With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied. (kaggle.com)
+
+The XGBoost Regressor model was applied in order to attend the need above.
+
+The predictions for each store can be found at [Rossmann Bot Telegram](http://t.me/fjj02_rossmann_bot)
+
+|| MAE |	MAPE |
+| ----- | ----------- | --------------- |
+|XGB Regressor |	886.07 |	0.1336 |
+
+Access [Rossmann - Time Series Forecasting](https://github.com/flpj08/rossmann-predict) for project's detail
+
+------------------------------------
 
 ## Data Anaysis - Insight Projects
 ### [House Rocket - Insights Project](https://github.com/flpj08/python-zero-ds)
@@ -42,5 +58,7 @@ Based on business criteria, a list of the 10 most profitable were listed giving 
 | :-------------: | :----------------------------------------------------------: |
 |       Initial investment        |         17,275,750.00           |
 |      Expected profit       |              5,182,725.00                 | 
+
+------------------------------------
 
 ## Data Engineering - ETL Projects
